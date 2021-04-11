@@ -23,7 +23,7 @@ Am academic progress web application designed to organize information about stud
 
 ## Built With
 
-This project was conceptualized by building wireframes and prototypes using Figma and Adobe Photoshop We will build this project using React JS, JavaScript, React Redux, CSS, and Material UI on the frontend. Dependencies needed for the project are axios, redux, react-redux, redux-thunk, redux-devtools-extension/developmentOnly. 
+This project was built using React JS, JavaScript, and CSS on the frontend. Dependencies needed for the project include react-dom and react-router-dom.
 
 
 <!-- CONTACT -->
